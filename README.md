@@ -4,5 +4,5 @@ Programm for FRET measurements. Used in combination with frequency generators, a
 
 The software captures the PMT data from the MFLI 500.
 
-![Image]/(https://github.com/christianhermann/FRETControl/blob/CenturionInstaller/Screenshot.png)
+![Image](https://github.com/christianhermann/FRETControl/blob/CenturionInstaller/Screenshot.png)
 
